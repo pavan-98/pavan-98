@@ -23,7 +23,7 @@ I’m an experienced Full Stack Developer focused on building beautiful, high-qu
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-kalyan-neerukonda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_pavan_kalyan_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pavan-kalyan-neerukonda) 
 <p align="left">
 <a href="https://linkedin.com/in/pavan-kalyan-neerukonda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pavan-kalyan-neerukonda" height="30" width="40" /></a>
 <a href="https://twitter.com/_pavan_kalyan_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_pavan_kalyan_" height="30" width="40" /></a>
