@@ -47,7 +47,7 @@ I’m an experienced Full Stack Developer focused on building beautiful, high-qu
 ---
 [![](https://visitcount.itsvg.in/api?id=pavan-98&icon=10&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ## 💰 Like my Work, Buy me a Coffee
 <p><a href="https://www.buymeacoffee.com/nrkpavank"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nrkpavank" /></a></p><br><br>
 
   
