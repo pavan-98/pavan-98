@@ -6,15 +6,15 @@ I’m an experienced Full Stack Developer focused on building beautiful, high-qu
 
 - 🌱 I’m currently learning **React and React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/pavan-98](https://github.com/pavan-98)
+- 👨‍💻 All of my projects are available at [Github Repos](https://github.com/pavan-98?tab=repositories)
 
-- 📝 I regularly write articles on [www.travelvizag.com](www.travelvizag.com)
+- 📝 I regularly write articles on [Linkedin Articles](https://www.linkedin.com/in/pavan-kalyan-neerukonda/recent-activity/articles/)
 
-- 💬 Ask me about **Angular, Front End Development**
+- 💬 Ask me about **Angular, GCP, AWS, Node.js and Front End Development**
 
-- 📫 How to reach me **pavan@npavankalyan.com**
+- 📫 How to reach me **pavan@npavankalyan.com** / [Linkedin](https://www.linkedin.com/in/pavan-kalyan-neerukonda)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/pavan-kalyan-neerukonda](https://www.linkedin.com/in/pavan-kalyan-neerukonda)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/pavan-kalyan-neerukonda)
 
 - ⚡ Fun fact **I love MotorBiking**
 
