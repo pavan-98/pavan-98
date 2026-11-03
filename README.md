@@ -52,8 +52,11 @@ Outside of tech, I love long motorbiking trips, good books and podcasts, tinkeri
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pavan-98&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-98&theme=dark&hide_border=false&layout=compact" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavan-98&theme=github_dark" alt="GitHub profile summary" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pavan-98&theme=github_dark" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pavan-98&theme=github_dark" alt="Top languages by commit" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=pavan-98&theme=dark&hide_border=false" alt="GitHub streak" />
@@ -61,7 +64,7 @@ Outside of tech, I love long motorbiking trips, good books and podcasts, tinkeri
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pavan-98&theme=darkhub&no-frame=true&margin-w=4" alt="GitHub trophies" />
+  <img src="https://github-trophies.vercel.app/?username=pavan-98&theme=darkhub&no-frame=true&margin-w=4&row=1&column=7" alt="GitHub trophies" />
 </p>
 
 ---
@@ -70,5 +73,5 @@ Outside of tech, I love long motorbiking trips, good books and podcasts, tinkeri
 <a href="https://www.buymeacoffee.com/nrkpavank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy me a coffee" /></a>
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in"><img src="https://visitcount.itsvg.in/api?id=pavan-98&icon=10&color=13" alt="Visitor count" /></a>
+  <img src="https://komarev.com/ghpvc/?username=pavan-98&color=blueviolet&style=for-the-badge&label=Profile+views" alt="Profile views" />
 </p>
