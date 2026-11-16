@@ -14,6 +14,7 @@ I care about the craft: clean architecture, great UX, and software that genuinel
 
 Outside of tech, I love long motorbiking trips, good books and podcasts, tinkering with gadgets and home automation, and connecting with people.
 
+- 🚀 Shipped **7 free, installable web apps**, from loan maths to a 3D motorcycle wind tunnel. [See them below ↓](#-things-ive-built)
 - 🤖 Currently exploring **LLM apps, AI agents, RAG and the Model Context Protocol (MCP)**
 - 🛠️ Building across the stack with **Angular, React, Next.js, Node.js, AWS and GCP**
 - 👨‍💻 All my projects live in my [GitHub repos](https://github.com/pavan-98?tab=repositories)
@@ -21,6 +22,134 @@ Outside of tech, I love long motorbiking trips, good books and podcasts, tinkeri
 - 💬 Ask me about **Full Stack Development, Cloud Architecture, Front End Performance and building with AI**
 - 📫 Reach me at **pavan@npavankalyan.com** or on [LinkedIn](https://www.linkedin.com/in/pavan-kalyan-neerukonda)
 - ⚡ Fun fact: **I love motorbiking**
+
+---
+
+## 🚀 Things I've Built
+
+Real products for real people: designed, built and shipped end to end. Every one is **free**, needs **no sign-up**, keeps your data **on your device**, and installs on your phone like a native app.
+
+<br/>
+
+<a href="https://loansense.in"><img src="assets/projects/loansense.jpg" alt="LoanSense: a ₹50 lakh home loan costs ₹54 lakh in interest. See what your EMI really costs, and how to cut it." width="100%" /></a>
+
+### 💸 [LoanSense](https://loansense.in): see what your loan *really* costs
+
+> A ₹50 lakh home loan at 8.5% for 20 years costs **₹54 lakh in interest**, more than you borrowed. Most EMI calculators stop at the EMI. LoanSense shows you the rest, and how to cut it.
+
+- 🏦 **8 loan types:** home, car, two-wheeler, personal, education, gold, loan-against-property and business
+- 📉 **Plan your way out of debt:** prepayment planner, debt-free-by-a-date goals, prepay vs invest, and what an RBI repo-rate change does to your EMI
+- ⚖️ **Never sign a bad deal:** compare up to 3 offers ranked by the *true* rate including fees, unmask "flat" dealer rates, test a balance transfer and check eligibility
+- 📒 **My Loans:** a private tracker for the loans you already have, with reminders and a financial-year interest breakdown for tax time
+- 📄 **Detailed PDF reports** and shareable plan links (WhatsApp-ready), in **English, हिन्दी, தமிழ், తెలుగు, മലയാളം, ಕನ್ನಡ and বাংলা**
+- 🤖 **Works inside AI assistants:** a public **MCP server** lets Claude, ChatGPT, Cursor and VS Code run exact Indian loan maths
+
+<p>
+  <a href="https://loansense.in"><img src="https://img.shields.io/badge/Try_it_free-loansense.in-2563EB?style=for-the-badge" alt="Try LoanSense" /></a>
+  <a href="https://loansense.in/mcp"><img src="https://img.shields.io/badge/Add_to_your_AI-MCP_server-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="LoanSense MCP server" /></a>
+</p>
+
+<br/>
+
+<a href="https://windblast-lab.vercel.app"><img src="assets/projects/windblast-lab.jpg" alt="Windblast Lab: see what the wind does to you. A 3D motorcycle and rider in a wind tunnel." width="100%" /></a>
+
+### 🏍️ [Windblast Lab](https://windblast-lab.vercel.app): a 3D wind tunnel for motorcycles
+
+> At 120 km/h an upright rider on a naked bike holds back roughly **20 kg of wind**. Windblast Lab puts real motorcycles in a wind tunnel so you can see exactly where that force goes. Built by a rider, for riders.
+
+- 🌬️ **Interactive 3D wind lab:** rotate the bike and rider, change speed and crosswind, and watch smoke lines, particles and a pressure map flow over them
+- 📊 **Live physics readouts:** force on each part of your body, drag, power, top speed, range and helmet buffeting
+- 🛡️ **Try before you buy:** fit a touring screen, deflector, handguards, luggage or crash bars and compare against the stock bike
+- 🧠 **Any bike, built by AI:** not in the catalogue? AI builds a 3D model from its published dimensions
+- 🇮🇳 **Bike encyclopedia** with specs, side-by-side comparison and **state-wise on-road prices for India**
+- 🔗 Share a setup as a link, or export the 3D model as `.glb`
+
+<p>
+  <a href="https://windblast-lab.vercel.app"><img src="https://img.shields.io/badge/Open_the_wind_lab-windblast--lab.vercel.app-F97316?style=for-the-badge" alt="Open Windblast Lab" /></a>
+  <img src="https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" />
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+</p>
+
+<br/>
+
+<a href="https://aether-weather.nrkpavan.workers.dev"><img src="assets/projects/aether-weather.jpg" alt="Aether Weather: today's forecast, alerts, AI briefing and live radar" width="100%" /></a>
+
+### 🌤️ [Aether Weather](https://aether-weather.nrkpavan.workers.dev): the AI-native weather app
+
+> Weather that knows your commute. Aether combines 7 global forecast models, India's official alerts and an AI that writes your briefing, built India-first and works worldwide.
+
+- ✨ **A living sky:** a WebGL backdrop renders the *actual* conditions where you are: sun position, clouds, rain, fog and lightning
+- 🛰️ **Radar that looks ahead:** observed radar flows straight into **48 hours of forecast rain**, with wind particles and NASA satellite imagery
+- 🌀 **Cyclone tracking** with paths and uncertainty cones, plus official **IMD and NDMA alerts** matched to your district
+- 🔭 **35-day outlook** from a 31-member ensemble, honest about how confidence falls off
+- 🗣️ **Ask Aether:** a chat that pulls real forecasts, alerts and climate history, and briefings in **12 Indian languages** with nudges like *"leave before 5:15 to stay dry"*
+- 🧳 **Trip planner:** weather for every stop *on the days you're there*, with a risk summary and an AI-written packing list
+- 🔔 **Push alerts** even when the app is closed
+
+<p>
+  <a href="https://aether-weather.nrkpavan.workers.dev"><img src="https://img.shields.io/badge/Check_your_sky-Aether_Weather-6366F1?style=for-the-badge" alt="Open Aether Weather" /></a>
+  <img src="https://img.shields.io/badge/React_19-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" />
+</p>
+
+<br/>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://pavan-98.github.io/aggregator/"><img src="assets/projects/taaza.jpg" alt="Taaza: ad-free news and gold rates in English and Telugu" width="100%" /></a>
+      <h3>📰 <a href="https://pavan-98.github.io/aggregator/">Taaza · తాజా</a></h3>
+      <p><b>Fresh news, zero ads.</b> Your city's headlines in English and Telugu, plus today's gold rate for every karat.</p>
+      <ul>
+        <li>13 cities and 12 topics, swipe to switch</li>
+        <li>Gold &amp; silver: 24K to 9K, IBJA benchmark, 1-year trends and a jewellery bill calculator</li>
+        <li>Runs on GitHub's free tier: no server, no trackers, works offline</li>
+      </ul>
+      <a href="https://pavan-98.github.io/aggregator/"><img src="https://img.shields.io/badge/Read_today's_news-0EA5E9?style=flat-square" alt="Open Taaza" /></a>
+      <a href="https://github.com/pavan-98/aggregator"><img src="https://img.shields.io/badge/Open_source-181717?style=flat-square&logo=github" alt="Taaza source code" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://dailydevconsole.vercel.app"><img src="assets/projects/dev-console.jpg" alt="Daily Dev Console: the free developer dashboard for your daily workflow" width="100%" /></a>
+      <h3>🧑‍💻 <a href="https://dailydevconsole.vercel.app">Daily Dev Console</a></h3>
+      <p><b>Your whole dev day on one tab.</b> A drag-and-drop dashboard that replaces a dozen bookmarks.</p>
+      <ul>
+        <li>Todos, notes, focus timer, weather and tech news</li>
+        <li>JSON formatter and diff, converters, UUID, password and QR generators</li>
+        <li>An offline AI chat that runs on Chrome's built-in model</li>
+      </ul>
+      <a href="https://dailydevconsole.vercel.app"><img src="https://img.shields.io/badge/Open_the_console-4F46E5?style=flat-square" alt="Open Daily Dev Console" /></a>
+      <img src="https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://bac-calculator-rho.vercel.app/"><img src="assets/projects/bac-calculator.jpg" alt="Can I Drive? See the exact time you're under India's legal limit" width="100%" /></a>
+      <h3>🚗 <a href="https://bac-calculator-rho.vercel.app/">Can I Drive? BAC Calculator</a></h3>
+      <p><b>Not a percentage. A time.</b> Tap the drinks you had and see the clock time you'll be under India's 0.03% legal limit.</p>
+      <ul>
+        <li>Designed for after a few drinks: big buttons, live answers, undo, no typing</li>
+        <li>Converts police breathalyser readings (limit 30) into plain answers</li>
+        <li>One-tap ride links, "ask a friend" message and emergency numbers, all offline</li>
+      </ul>
+      <a href="https://bac-calculator-rho.vercel.app/"><img src="https://img.shields.io/badge/Check_before_you_drive-DC2626?style=flat-square" alt="Open the BAC calculator" /></a>
+      <a href="https://github.com/pavan-98/bac-limit-calculator"><img src="https://img.shields.io/badge/Open_source-181717?style=flat-square&logo=github" alt="BAC calculator source code" /></a>
+      <br/><sub>Estimates only. When in doubt, don't drive.</sub>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/projects/apartment-maintenance.jpg" alt="Apartment Maintenance: who paid, who hasn't, and where every rupee went" width="100%" />
+      <h3>🏢 Apartment Maintenance</h3>
+      <p><b>The paper maintenance book, replaced.</b> Built for a real 15-flat building: residents see who paid and where the money went, and admins run it all from their phones.</p>
+      <ul>
+        <li>Paid/unpaid flats floor by floor, monthly balance sheets and bill photos</li>
+        <li>Bilingual notices with pop-ups, push notifications and WhatsApp reminders</li>
+        <li>Manager roles, full edit history and printable book pages</li>
+      </ul>
+      <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black" alt="Upstash Redis" />
+      <br/><sub>Private deployment for a residents' association.</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -33,13 +162,13 @@ Outside of tech, I love long motorbiking trips, good books and podcasts, tinkeri
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
 **Frontend**<br/>
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Ionic](https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Three.js](https://img.shields.io/badge/three.js-black?style=for-the-badge&logo=three.js&logoColor=white)
 
 **Backend & Databases**<br/>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 
 **Cloud & DevOps**<br/>
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
 
 **Tools & Testing**<br/>
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jasmine](https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
