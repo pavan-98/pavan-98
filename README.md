@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Kalyan Neerukonda</h1>
-<h3 align="center">Full Stack Engineer · Building AI-powered products from prompt to production</h3>
+<h3 align="center">Full Stack Engineer · AI Tinkerer · Motorbike Rider</h3>
+<p align="center"><i>I build the apps I wish existed, then give them away for free.</i></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/pavan-kalyan-neerukonda"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -136,17 +137,18 @@ Real products for real people: designed, built and shipped end to end. Every one
       <br/><sub>Estimates only. When in doubt, don't drive.</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/projects/apartment-maintenance.jpg" alt="Apartment Maintenance: who paid, who hasn't, and where every rupee went" width="100%" />
-      <h3>🏢 Apartment Maintenance</h3>
+      <a href="https://github.com/pavan-98/apartment-maintenance"><img src="assets/projects/apartment-maintenance.jpg" alt="Apartment Maintenance: who paid, who hasn't, and where every rupee went" width="100%" /></a>
+      <h3>🏢 <a href="https://github.com/pavan-98/apartment-maintenance">Apartment Maintenance</a></h3>
       <p><b>The paper maintenance book, replaced.</b> Built for a real 15-flat building: residents see who paid and where the money went, and admins run it all from their phones.</p>
       <ul>
         <li>Paid/unpaid flats floor by floor, monthly balance sheets and bill photos</li>
         <li>Bilingual notices with pop-ups, push notifications and WhatsApp reminders</li>
         <li>Manager roles, full edit history and printable book pages</li>
       </ul>
+      <a href="https://github.com/pavan-98/apartment-maintenance"><img src="https://img.shields.io/badge/Set_it_up_for_your_building-16A34A?style=flat-square&logo=github" alt="Apartment Maintenance source code" /></a>
       <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black" alt="Upstash Redis" />
-      <br/><sub>Private deployment for a residents' association.</sub>
+      <br/><sub>Runs free on Vercel. The live app is private to its residents.</sub>
     </td>
   </tr>
 </table>
