@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pavan Kalyan Neerukonda</h1>
-<h3 align="center">Full Stack Engineer · AI Tinkerer · Motorbike Rider</h3>
-<p align="center"><i>I build the apps I wish existed, then give them away for free.</i></p>
+<h3 align="center">Powered by chai, Claude and petrol.</h3>
+<p align="center"><i>Full Stack Engineer · AI Tinkerer · Motorbike Rider</i></p>
 
 <p align="center">
   <a href="https://linkedin.com/in/pavan-kalyan-neerukonda"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
