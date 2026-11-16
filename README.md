@@ -146,6 +146,7 @@ Real products for real people: designed, built and shipped end to end. Every one
         <li>Manager roles, full edit history and printable book pages</li>
       </ul>
       <a href="https://github.com/pavan-98/apartment-maintenance"><img src="https://img.shields.io/badge/Set_it_up_for_your_building-16A34A?style=flat-square&logo=github" alt="Apartment Maintenance source code" /></a>
+      <a href="https://github.com/pavan-98/apartment-maintenance"><img src="https://img.shields.io/badge/Open_source-181717?style=flat-square&logo=github" alt="Open source" /></a>
       <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
       <img src="https://img.shields.io/badge/Upstash_Redis-00E9A3?style=flat-square&logo=upstash&logoColor=black" alt="Upstash Redis" />
       <br/><sub>Runs free on Vercel. The live app is private to its residents.</sub>
