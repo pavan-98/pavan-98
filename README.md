@@ -15,7 +15,7 @@ I care about the craft: clean architecture, great UX, and software that genuinel
 
 Outside of tech, I love long motorbiking trips, good books and podcasts, tinkering with gadgets and home automation, and connecting with people.
 
-- 🚀 Shipped **7 free, installable web apps**, from loan maths to a 3D motorcycle wind tunnel. [See them below ↓](#-things-ive-built)
+- 🚀 Shipped **8 free, installable web apps**, from loan maths to a 3D motorcycle wind tunnel. [See them below ↓](#-things-ive-built)
 - 🤖 Currently exploring **LLM apps, AI agents, RAG and the Model Context Protocol (MCP)**
 - 🛠️ Building across the stack with **Angular, React, Next.js, Node.js, AWS and GCP**
 - 👨‍💻 All my projects live in my [GitHub repos](https://github.com/pavan-98?tab=repositories)
@@ -91,6 +91,27 @@ Real products for real people: designed, built and shipped end to end. Every one
   <a href="https://aether-weather.nrkpavan.workers.dev"><img src="https://img.shields.io/badge/Check_your_sky-Aether_Weather-6366F1?style=for-the-badge" alt="Open Aether Weather" /></a>
   <img src="https://img.shields.io/badge/React_19-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflareworkers&logoColor=white" alt="Cloudflare Workers" />
+</p>
+
+<br/>
+
+<a href="https://parcelboard.vercel.app"><img src="assets/projects/parcelboard.jpg" alt="Parcelboard: every parcel, one board. Paste tracking numbers from any Indian courier and see where each one is." width="100%" /></a>
+
+### 📦 [Parcelboard](https://parcelboard.vercel.app): every parcel, one board
+
+> Five orders, five couriers, five tracking sites. Or one board. Paste every tracking number from your SMS, email or order page, and Parcelboard lines your parcels up like a railway station's running-status board.
+
+- 🔍 **Paste anything:** drop in any number of tracking numbers, messy formatting and all, and it works out the courier for each one
+- 🚉 **Station-board view:** where each parcel is *now* on a yellow plate, a red signal when a delivery attempt failed, green when it's out for delivery
+- 🗺️ **Tap for the full route:** origin, latest scan and destination, with the parcels that need you pinned on top
+- 📲 **Share straight from an SMS** into the app on Android, send one parcel's status on WhatsApp, or share your whole board as a single link
+- 🙅 **Honest by design:** it reads each courier's own public tracking page, and where a courier hides tracking behind a CAPTCHA it says so and links you there instead of pretending
+- 🔒 No account, no database: your list stays in your browser and opens offline
+
+<p>
+  <a href="https://parcelboard.vercel.app"><img src="https://img.shields.io/badge/Track_your_parcels-parcelboard.vercel.app-F6C400?style=for-the-badge&labelColor=141414" alt="Open Parcelboard" /></a>
+  <img src="https://img.shields.io/badge/Next.js_16-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
 
 <br/>
